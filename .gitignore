@@ -1,0 +1,13 @@
+node_modules
+.dist
+coverage
+.env
+.env.local
+storage/
+frontend/.next
+frontend/out
+backend/dist
+*.log
+.idea/
+.vscode/
+.DS_Store

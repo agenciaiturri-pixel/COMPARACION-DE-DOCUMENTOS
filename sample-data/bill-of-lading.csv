@@ -1,0 +1,2 @@
+exportador,consignatario,puerto_origen,puerto_destino,numero_contenedor,peso,cantidad,valor,incoterms,descripcion_mercaderia
+ACME Corp,Importaciones SAC,Callao,Los Angeles,CONT-123,12500,100,45000,CIF,Piezas metálicas industriales
